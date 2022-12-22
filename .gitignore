@@ -24,3 +24,6 @@ bidafglove_tv.npy
 2. BiDAF.ipynb
 .ipynb_checkpoints/3. QANet-optim5-checkpoint.ipynb
 .ipynb_checkpoints/3. QANet-checkpoint.ipynb
+weight_decay_increased_optimizer_Default_hiddenSize.pth
+results/display_results.ipynb
+results/display_results.ipynb
