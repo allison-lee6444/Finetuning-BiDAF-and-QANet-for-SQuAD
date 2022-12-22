@@ -1,4 +1,4 @@
 # BIDAF-QANet-Optimization-on-SQuAD
-We hope to finetune BIDAF and QANet to achieve a better result in the SQuAD dataset. We will be evaluating our results in terms of the F1 score (precision and recall of the words chosen that is a part of the answer) and the EM score (number of exactly correct answers).
+Our goal was to come up with an architecture with the highest EM and F1 score on the SQuAD Question and Answer dataset. We eventually came up with a BiDAF model scoring 56.5468 on EM and 68.57654 on F1 and a QANet model scoring 33.311258 on EM and 45.1477 on F1.
 
 Reference: https://github.com/kushalj001/pytorch-question-answering
