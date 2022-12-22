@@ -4,3 +4,9 @@ Our goal was to come up with an architecture with the highest EM and F1 score on
 Please see 2. BiDAF.ipynb and 3. QANet.ipynb for the detailed description of our experiments as well as the final results.
 
 Reference: https://github.com/kushalj001/pytorch-question-answering
+
+Also enclosed is the pickle file and the different QANet models in the below drive link (accessible only with NYU ID):
+
+https://drive.google.com/drive/folders/1EC7hDylPWZqYt7rCc2tQor0sN6LFfDdM?usp=sharing
+
+The BiDAF models are under the bidaf-results folder in the main directory. 
